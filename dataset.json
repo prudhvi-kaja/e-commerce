@@ -1,0 +1,802 @@
+[
+    {
+        "p_id": 1,
+        "p_name": "Wireless Headphones",
+        "p_cost": 79.99,
+        "p_cat": "Electronics",
+        "p_desc": "Noise-cancelling wireless headphones with Bluetooth connectivity.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 2,
+        "p_name": "Smartwatch Series 5",
+        "p_cost": 249.99,
+        "p_cat": "Wearables",
+        "p_desc": "Smartwatch with heart rate monitor and GPS tracking.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 3,
+        "p_name": "4K Ultra HD TV",
+        "p_cost": 399.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "55-inch 4K Ultra HD TV with smart features.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 4,
+        "p_name": "Gaming Laptop",
+        "p_cost": 1099.99,
+        "p_cat": "Computers",
+        "p_desc": "High-performance laptop for gaming and productivity.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 5,
+        "p_name": "Bluetooth Speaker",
+        "p_cost": 29.99,
+        "p_cat": "Electronics",
+        "p_desc": "Portable Bluetooth speaker with rich sound quality.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 6,
+        "p_name": "Digital Camera",
+        "p_cost": 499.99,
+        "p_cat": "Electronics",
+        "p_desc": "Compact digital camera with 20MP resolution.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 7,
+        "p_name": "Smart Thermostat",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart thermostat with voice control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 8,
+        "p_name": "Electric Kettle",
+        "p_cost": 39.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Fast-boiling electric kettle with auto shut-off.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 9,
+        "p_name": "Fitness Tracker",
+        "p_cost": 49.99,
+        "p_cat": "Wearables",
+        "p_desc": "Track your fitness and health metrics.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 10,
+        "p_name": "E-Reader",
+        "p_cost": 129.99,
+        "p_cat": "Electronics",
+        "p_desc": "Portable e-reader with a high-resolution display.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 11,
+        "p_name": "Air Purifier",
+        "p_cost": 149.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Efficient air purifier for clean and fresh air.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 12,
+        "p_name": "Coffee Maker",
+        "p_cost": 89.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Automatic coffee maker with programmable settings.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 13,
+        "p_name": "Smart Light Bulb",
+        "p_cost": 19.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi controlled smart light bulb with color changing feature.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 14,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 49.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable electric toothbrush with multiple modes.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 15,
+        "p_name": "Robot Vacuum Cleaner",
+        "p_cost": 299.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Automated vacuum cleaner with intelligent navigation.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 16,
+        "p_name": "Tablet Pro",
+        "p_cost": 499.99,
+        "p_cat": "Electronics",
+        "p_desc": "High-performance tablet with a 10-inch display.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 17,
+        "p_name": "Wireless Charger",
+        "p_cost": 29.99,
+        "p_cat": "Electronics",
+        "p_desc": "Fast wireless charger for all compatible devices.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 18,
+        "p_name": "Home Security Camera",
+        "p_cost": 99.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Indoor security camera with night vision.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 19,
+        "p_name": "Electric Scooter",
+        "p_cost": 299.99,
+        "p_cat": "Sports",
+        "p_desc": "Foldable electric scooter with a top speed of 15 mph.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 20,
+        "p_name": "Noise-Cancelling Earbuds",
+        "p_cost": 149.99,
+        "p_cat": "Electronics",
+        "p_desc": "True wireless earbuds with active noise cancellation.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 21,
+        "p_name": "Smart Refrigerator",
+        "p_cost": 1299.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart refrigerator with touch screen display.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 22,
+        "p_name": "Electric Grill",
+        "p_cost": 99.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Indoor electric grill with adjustable temperature settings.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 23,
+        "p_name": "Streaming Device",
+        "p_cost": 39.99,
+        "p_cat": "Electronics",
+        "p_desc": "4K streaming device with voice remote.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 24,
+        "p_name": "Action Camera",
+        "p_cost": 249.99,
+        "p_cat": "Electronics",
+        "p_desc": "Waterproof action camera with 4K recording.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 25,
+        "p_name": "Smart Scale",
+        "p_cost": 59.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Digital smart scale with body composition analysis.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 26,
+        "p_name": "Laptop Stand",
+        "p_cost": 29.99,
+        "p_cat": "Computers",
+        "p_desc": "Adjustable laptop stand with ergonomic design.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 27,
+        "p_name": "Portable Power Bank",
+        "p_cost": 39.99,
+        "p_cat": "Electronics",
+        "p_desc": "High-capacity power bank for charging on the go.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 28,
+        "p_name": "Cordless Drill",
+        "p_cost": 59.99,
+        "p_cat": "Tools",
+        "p_desc": "Rechargeable cordless drill with multiple speed settings.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 29,
+        "p_name": "Smart Door Lock",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart door lock with keyless entry.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 30,
+        "p_name": "Electric Shaver",
+        "p_cost": 69.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable electric shaver with multiple attachments.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 31,
+        "p_name": "Portable Blender",
+        "p_cost": 39.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Compact and portable blender for smoothies.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 32,
+        "p_name": "Smart Doorbell",
+        "p_cost": 149.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart doorbell with video recording.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 33,
+        "p_name": "Cordless Vacuum",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Lightweight cordless vacuum cleaner for easy cleaning.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 34,
+        "p_name": "Electric Pressure Cooker",
+        "p_cost": 89.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Multi-function electric pressure cooker with pre-set programs.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 35,
+        "p_name": "Smart Mirror",
+        "p_cost": 299.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Smart mirror with integrated display and touch controls.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 36,
+        "p_name": "Digital Picture Frame",
+        "p_cost": 79.99,
+        "p_cat": "Electronics",
+        "p_desc": "Wi-Fi enabled digital picture frame with HD display.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 37,
+        "p_name": "Electric Scooter",
+        "p_cost": 299.99,
+        "p_cat": "Sports",
+        "p_desc": "Foldable electric scooter with a top speed of 15 mph.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 38,
+        "p_name": "Smart Air Conditioner",
+        "p_cost": 499.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart air conditioner with remote control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 39,
+        "p_name": "Wireless Keyboard",
+        "p_cost": 49.99,
+        "p_cat": "Computers",
+        "p_desc": "Compact wireless keyboard with Bluetooth connectivity.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 40,
+        "p_name": "Streaming Device",
+        "p_cost": 39.99,
+        "p_cat": "Electronics",
+        "p_desc": "4K streaming device with voice remote.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 41,
+        "p_name": "Portable Projector",
+        "p_cost": 299.99,
+        "p_cat": "Electronics",
+        "p_desc": "Compact portable projector with HD resolution.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 42,
+        "p_name": "Smart Thermostat",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart thermostat with voice control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 43,
+        "p_name": "Digital Alarm Clock",
+        "p_cost": 29.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Digital alarm clock with LED display and USB charging port.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 44,
+        "p_name": "Wireless Earbuds",
+        "p_cost": 49.99,
+        "p_cat": "Electronics",
+        "p_desc": "True wireless earbuds with Bluetooth connectivity.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 45,
+        "p_name": "Smart Door Lock",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart door lock with keyless entry.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 46,
+        "p_name": "Robot Vacuum",
+        "p_cost": 299.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Automated vacuum cleaner with intelligent navigation.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 47,
+        "p_name": "Electric Pressure Washer",
+        "p_cost": 129.99,
+        "p_cat": "Tools",
+        "p_desc": "High-power electric pressure washer for cleaning outdoors.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 48,
+        "p_name": "Portable Speaker",
+        "p_cost": 59.99,
+        "p_cat": "Electronics",
+        "p_desc": "Waterproof portable speaker with Bluetooth connectivity.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 49,
+        "p_name": "Smart Watch",
+        "p_cost": 199.99,
+        "p_cat": "Wearables",
+        "p_desc": "Fitness-focused smart watch with heart rate monitoring.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 50,
+        "p_name": "Smart Light Switch",
+        "p_cost": 49.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart light switch with touch control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 51,
+        "p_name": "Digital Kitchen Scale",
+        "p_cost": 19.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Precision digital kitchen scale with LCD display.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 52,
+        "p_name": "Smart Window Blinds",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Automated smart window blinds with remote control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 53,
+        "p_name": "Smart LED Strip",
+        "p_cost": 29.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Color-changing smart LED strip with app control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 54,
+        "p_name": "Smart Doorbell",
+        "p_cost": 149.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart doorbell with video recording.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 55,
+        "p_name": "Electric Lawn Mower",
+        "p_cost": 299.99,
+        "p_cat": "Tools",
+        "p_desc": "Cordless electric lawn mower with adjustable cutting height.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 56,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 49.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable electric toothbrush with multiple modes.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 57,
+        "p_name": "Smart Air Purifier",
+        "p_cost": 149.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Efficient air purifier with smart control features.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 58,
+        "p_name": "Smart Lock",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Secure and convenient smart lock for your home.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 59,
+        "p_name": "Robot Mop",
+        "p_cost": 249.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Automated robot mop for efficient floor cleaning.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 60,
+        "p_name": "Smart Baby Monitor",
+        "p_cost": 129.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled baby monitor with camera and audio.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 61,
+        "p_name": "Smart Pet Feeder",
+        "p_cost": 99.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Automatic pet feeder with programmable feeding times.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 62,
+        "p_name": "Cordless Hair Clipper",
+        "p_cost": 59.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable cordless hair clipper with adjustable length settings.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 63,
+        "p_name": "Smart Plugs",
+        "p_cost": 29.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart plugs for remote control of appliances.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 64,
+        "p_name": "Portable Air Conditioner",
+        "p_cost": 299.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Compact portable air conditioner with remote control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 65,
+        "p_name": "Electric Rice Cooker",
+        "p_cost": 59.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Multi-function electric rice cooker with pre-set programs.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 66,
+        "p_name": "Electric Deep Fryer",
+        "p_cost": 79.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Compact electric deep fryer with adjustable temperature.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 67,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 49.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable electric toothbrush with multiple modes.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 68,
+        "p_name": "Smart Thermostat",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart thermostat with voice control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 69,
+        "p_name": "Smart Door Lock",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart door lock with keyless entry.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 70,
+        "p_name": "Smart Light Bulb",
+        "p_cost": 19.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi controlled smart light bulb with color changing feature.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 71,
+        "p_name": "Smart Doorbell",
+        "p_cost": 149.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart doorbell with video recording.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 72,
+        "p_name": "Cordless Vacuum",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Lightweight cordless vacuum cleaner for easy cleaning.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 73,
+        "p_name": "Portable Blender",
+        "p_cost": 39.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Compact and portable blender for smoothies.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 74,
+        "p_name": "Smart Mirror",
+        "p_cost": 299.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Smart mirror with integrated display and touch controls.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 75,
+        "p_name": "Electric Blanket",
+        "p_cost": 49.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Electric blanket with adjustable heat settings.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 76,
+        "p_name": "Smart Mug",
+        "p_cost": 79.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Temperature-controlled smart mug with app control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 77,
+        "p_name": "Electric Skillet",
+        "p_cost": 59.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Electric skillet with non-stick surface and temperature control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 78,
+        "p_name": "Electric Heater",
+        "p_cost": 69.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Portable electric heater with adjustable thermostat.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 79,
+        "p_name": "Smart Scale",
+        "p_cost": 59.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Digital smart scale with body composition analysis.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 80,
+        "p_name": "Electric Kettle",
+        "p_cost": 39.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Fast-boiling electric kettle with auto shut-off.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 81,
+        "p_name": "Smart Camera",
+        "p_cost": 149.99,
+        "p_cat": "Electronics",
+        "p_desc": "Indoor security camera with AI motion detection.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 82,
+        "p_name": "Electric Blanket",
+        "p_cost": 49.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Electric blanket with adjustable heat settings.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 83,
+        "p_name": "Smart Doorbell",
+        "p_cost": 149.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart doorbell with video recording.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 84,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 49.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable electric toothbrush with multiple modes.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 85,
+        "p_name": "Smart Light Switch",
+        "p_cost": 49.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart light switch with touch control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 86,
+        "p_name": "Electric Pressure Cooker",
+        "p_cost": 89.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Multi-function electric pressure cooker with pre-set programs.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 87,
+        "p_name": "Smart Watch",
+        "p_cost": 199.99,
+        "p_cat": "Wearables",
+        "p_desc": "Fitness-focused smart watch with heart rate monitoring.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 88,
+        "p_name": "Portable Power Bank",
+        "p_cost": 39.99,
+        "p_cat": "Electronics",
+        "p_desc": "High-capacity power bank for charging on the go.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 89,
+        "p_name": "Smart Thermostat",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart thermostat with voice control.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 90,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 49.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable electric toothbrush with multiple modes.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 91,
+        "p_name": "Smart Light Bulb",
+        "p_cost": 19.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi controlled smart light bulb with color changing feature.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 92,
+        "p_name": "Robot Vacuum",
+        "p_cost": 299.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Automated vacuum cleaner with intelligent navigation.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 93,
+        "p_name": "Smart Door Lock",
+        "p_cost": 199.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Wi-Fi enabled smart door lock with keyless entry.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 94,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 49.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable electric toothbrush with multiple modes.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 95,
+        "p_name": "Smart Mirror",
+        "p_cost": 299.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Smart mirror with integrated display and touch controls.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 96,
+        "p_name": "Electric Blanket",
+        "p_cost": 49.99,
+        "p_cat": "Home Appliances",
+        "p_desc": "Electric blanket with adjustable heat settings.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 97,
+        "p_name": "Smart Scale",
+        "p_cost": 59.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Digital smart scale with body composition analysis.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 98,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 49.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable electric toothbrush with multiple modes.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 99,
+        "p_name": "Portable Speaker",
+        "p_cost": 59.99,
+        "p_cat": "Electronics",
+        "p_desc": "Waterproof portable speaker with Bluetooth connectivity.",
+        "p_img": "https://via.placeholder.com/300"
+    },
+    {
+        "p_id": 100,
+        "p_name": "Electric Toothbrush",
+        "p_cost": 49.99,
+        "p_cat": "Personal Care",
+        "p_desc": "Rechargeable electric toothbrush with multiple modes.",
+        "p_img": "https://via.placeholder.com/300"
+    }
+]
